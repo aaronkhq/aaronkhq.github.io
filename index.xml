@@ -1,36 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Sulv&#39;s Blog</title>
+    <title>Aaron&#39;s Blog</title>
     <link>https://aaronkhq.github.io/</link>
-    <description>Recent content on Sulv&#39;s Blog</description>
+    <description>Recent content on Aaron&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 12 Apr 2023 19:22:09 +0800</lastBuildDate><atom:link href="https://aaronkhq.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Fisrt Blog</title>
-      <link>https://aaronkhq.github.io/posts/fisrt-blog/</link>
-      <pubDate>Wed, 12 Apr 2023 19:22:09 +0800</pubDate>
-      
-      <guid>https://aaronkhq.github.io/posts/fisrt-blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tech1</title>
-      <link>https://aaronkhq.github.io/posts/tech/tech1/</link>
-      <pubDate>Tue, 21 Feb 2023 12:20:21 +0800</pubDate>
-      
-      <guid>https://aaronkhq.github.io/posts/tech/tech1/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Thu, 05 May 2022 00:18:23 +0800</lastBuildDate><atom:link href="https://aaronkhq.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
       <link>https://aaronkhq.github.io/posts/blog/blog/</link>
       <pubDate>Thu, 05 May 2022 00:18:23 +0800</pubDate>
       
       <guid>https://aaronkhq.github.io/posts/blog/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Database</title>
+      <link>https://aaronkhq.github.io/posts/database/database/</link>
+      <pubDate>Thu, 05 May 2022 00:18:15 +0800</pubDate>
+      
+      <guid>https://aaronkhq.github.io/posts/database/database/</guid>
       <description></description>
     </item>
     
@@ -44,20 +35,29 @@
     </item>
     
     <item>
-      <title>Read</title>
-      <link>https://aaronkhq.github.io/posts/read/read/</link>
+      <title>Stata</title>
+      <link>https://aaronkhq.github.io/posts/stata/stata/</link>
+      <pubDate>Thu, 05 May 2022 00:18:15 +0800</pubDate>
+      
+      <guid>https://aaronkhq.github.io/posts/stata/stata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Literature</title>
+      <link>https://aaronkhq.github.io/posts/literature/literature/</link>
       <pubDate>Thu, 05 May 2022 00:18:06 +0800</pubDate>
       
-      <guid>https://aaronkhq.github.io/posts/read/read/</guid>
+      <guid>https://aaronkhq.github.io/posts/literature/literature/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tech</title>
-      <link>https://aaronkhq.github.io/posts/tech/tech/</link>
+      <link>https://aaronkhq.github.io/posts/tool/tech/</link>
       <pubDate>Thu, 05 May 2022 00:17:58 +0800</pubDate>
       
-      <guid>https://aaronkhq.github.io/posts/tech/tech/</guid>
+      <guid>https://aaronkhq.github.io/posts/tool/tech/</guid>
       <description>科技代码</description>
     </item>
     
@@ -71,12 +71,12 @@
     </item>
     
     <item>
-      <title>🙋🏻‍♂️关于</title>
+      <title></title>
       <link>https://aaronkhq.github.io/about/</link>
       <pubDate>Sat, 06 Nov 2021 14:57:28 +0800</pubDate>
       
       <guid>https://aaronkhq.github.io/about/</guid>
-      <description>关于我 英文名: Kevin Xu 职业: 程序员 运动: 跑步、乒乓球、爬山</description>
+      <description>关于我 Hi，我是Aaron，北京某高校的在读研究生，专业是金融。 喜欢捣鼓各种效率软件；喜欢码字的感觉。 自己捣鼓这个个人网站，主要是记录研究生期间的一些学习和生活。 如果你也对网站的内容感兴趣，欢迎邮件交流，一起学习！ Email: sfrucqkh@163.com</description>
     </item>
     
     
