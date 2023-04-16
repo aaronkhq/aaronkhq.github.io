@@ -2,19 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://aaronkhq.github.io/posts/tool/</loc>
+    <lastmod>2022-05-05T00:17:58+08:00</lastmod>
+  </url><url>
     <loc>https://aaronkhq.github.io/posts/</loc>
-    <lastmod>2022-05-05T00:18:23+08:00</lastmod>
+    <lastmod>2023-04-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aaronkhq.github.io/</loc>
-    <lastmod>2022-05-05T00:18:23+08:00</lastmod>
+    <lastmod>2023-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aaronkhq.github.io/tags/life/</loc>
+    <lastmod>2023-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aaronkhq.github.io/tags/tool/</loc>
+    <lastmod>2022-05-05T00:17:58+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronkhq.github.io/tags/weekly/</loc>
+    <lastmod>2023-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aaronkhq.github.io/posts/life/weekly1/</loc>
+    <lastmod>2023-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aaronkhq.github.io/posts/tool/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E9%80%89%E6%8B%A9zotero%E4%BD%9C%E4%B8%BA%E6%96%87%E7%8C%AE%E7%AE%A1%E7%90%86%E8%BD%AF%E4%BB%B6/</loc>
+    <lastmod>2022-05-05T00:17:58+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronkhq.github.io/posts/life/</loc>
+    <lastmod>2023-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aaronkhq.github.io/tags/</loc>
+    <lastmod>2023-04-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aaronkhq.github.io/tags/blog/</loc>
     <lastmod>2022-05-05T00:18:23+08:00</lastmod>
   </url><url>
     <loc>https://aaronkhq.github.io/posts/blog/blog/</loc>
-    <lastmod>2022-05-05T00:18:23+08:00</lastmod>
-  </url><url>
-    <loc>https://aaronkhq.github.io/tags/</loc>
     <lastmod>2022-05-05T00:18:23+08:00</lastmod>
   </url><url>
     <loc>https://aaronkhq.github.io/posts/blog/</loc>
@@ -29,16 +50,7 @@
     <loc>https://aaronkhq.github.io/posts/database/database/</loc>
     <lastmod>2022-05-05T00:18:15+08:00</lastmod>
   </url><url>
-    <loc>https://aaronkhq.github.io/tags/life/</loc>
-    <lastmod>2022-05-05T00:18:15+08:00</lastmod>
-  </url><url>
-    <loc>https://aaronkhq.github.io/posts/life/life/</loc>
-    <lastmod>2022-05-05T00:18:15+08:00</lastmod>
-  </url><url>
     <loc>https://aaronkhq.github.io/posts/stata/stata/</loc>
-    <lastmod>2022-05-05T00:18:15+08:00</lastmod>
-  </url><url>
-    <loc>https://aaronkhq.github.io/posts/life/</loc>
     <lastmod>2022-05-05T00:18:15+08:00</lastmod>
   </url><url>
     <loc>https://aaronkhq.github.io/posts/literature/</loc>
@@ -49,15 +61,6 @@
   </url><url>
     <loc>https://aaronkhq.github.io/tags/read/</loc>
     <lastmod>2022-05-05T00:18:06+08:00</lastmod>
-  </url><url>
-    <loc>https://aaronkhq.github.io/posts/tool/</loc>
-    <lastmod>2022-05-05T00:17:58+08:00</lastmod>
-  </url><url>
-    <loc>https://aaronkhq.github.io/tags/tech/</loc>
-    <lastmod>2022-05-05T00:17:58+08:00</lastmod>
-  </url><url>
-    <loc>https://aaronkhq.github.io/posts/tool/tech/</loc>
-    <lastmod>2022-05-05T00:17:58+08:00</lastmod>
   </url><url>
     <loc>https://aaronkhq.github.io/links/</loc>
     <lastmod>2021-11-06T15:15:53+08:00</lastmod>

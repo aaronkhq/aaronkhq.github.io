@@ -6,7 +6,25 @@
     <description>Recent content on Aaron&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 05 May 2022 00:18:23 +0800</lastBuildDate><atom:link href="https://aaronkhq.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aaronkhq.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weekly周报 #1 - 新的开始、ChatGPT与多多</title>
+      <link>https://aaronkhq.github.io/posts/life/weekly1/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaronkhq.github.io/posts/life/weekly1/</guid>
+      <description>2023-04-09到2023-04-16：希望这是一个新的开始，能在复杂的表象之外构建出生活的意义</description>
+    </item>
+    
+    <item>
+      <title>Zotero：为什么我选择zotero作为文献管理软件？</title>
+      <link>https://aaronkhq.github.io/posts/tool/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E9%80%89%E6%8B%A9zotero%E4%BD%9C%E4%B8%BA%E6%96%87%E7%8C%AE%E7%AE%A1%E7%90%86%E8%BD%AF%E4%BB%B6/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaronkhq.github.io/posts/tool/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E9%80%89%E6%8B%A9zotero%E4%BD%9C%E4%B8%BA%E6%96%87%E7%8C%AE%E7%AE%A1%E7%90%86%E8%BD%AF%E4%BB%B6/</guid>
+      <description>zotero</description>
+    </item>
+    
     <item>
       <title>Blog</title>
       <link>https://aaronkhq.github.io/posts/blog/blog/</link>
@@ -22,15 +40,6 @@
       <pubDate>Thu, 05 May 2022 00:18:15 +0800</pubDate>
       
       <guid>https://aaronkhq.github.io/posts/database/database/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Life</title>
-      <link>https://aaronkhq.github.io/posts/life/life/</link>
-      <pubDate>Thu, 05 May 2022 00:18:15 +0800</pubDate>
-      
-      <guid>https://aaronkhq.github.io/posts/life/life/</guid>
       <description></description>
     </item>
     
@@ -53,15 +62,6 @@
     </item>
     
     <item>
-      <title>Tech</title>
-      <link>https://aaronkhq.github.io/posts/tool/tech/</link>
-      <pubDate>Thu, 05 May 2022 00:17:58 +0800</pubDate>
-      
-      <guid>https://aaronkhq.github.io/posts/tool/tech/</guid>
-      <description>科技代码</description>
-    </item>
-    
-    <item>
       <title>🤝友链</title>
       <link>https://aaronkhq.github.io/links/</link>
       <pubDate>Sat, 06 Nov 2021 15:15:53 +0800</pubDate>
@@ -76,7 +76,7 @@
       <pubDate>Sat, 06 Nov 2021 14:57:28 +0800</pubDate>
       
       <guid>https://aaronkhq.github.io/about/</guid>
-      <description>关于我 Hi，我是Aaron，北京某高校的在读研究生，专业是金融。 喜欢捣鼓各种效率软件；喜欢码字的感觉。 自己捣鼓这个个人网站，主要是记录研究生期间的一些学习和生活。 如果你也对网站的内容感兴趣，欢迎邮件交流，一起学习！ Email: sfrucqkh@163.com</description>
+      <description>关于我 Hi，我是Aaron，北京某高校的在读研究生，专业是金融。 喜欢捣鼓各种效率软件；喜欢码字的感觉。 自己捣鼓这个个人网站，主要是记录研究生期间的一些学习和生活。 如果你也对网站的内容感兴趣，欢迎邮件交流，一起学习！ Email: sfrucqkh@163.com 在搭建博客的过程中，参考了以下优秀的前辈，非常感谢： https://www.sulvblog.cn/ https://www.pseudoyu.com/ https://www.zhaohuabing.com/</description>
     </item>
     
     
